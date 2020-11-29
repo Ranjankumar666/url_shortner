@@ -1,6 +1,6 @@
 # url_shortner
 
-start a server with #### yarn start:dev or #### npm run start:dev
+start a server with yarn start:dev or npm run start:dev
 
 # Post
 
